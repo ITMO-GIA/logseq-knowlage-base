@@ -6,10 +6,11 @@
 	- TODO [[1906.09223] Disentangled Skill Embeddings for Reinforcement Learning](https://arxiv.org/abs/1906.09223)
 	- TODO [[1806.01830] Relational Deep Reinforcement Learning](https://arxiv.org/abs/1806.01830)
 - Какие есть примеры использования RL в реальных играх
-	- TODO [[1912.06680] Dota 2 with Large Scale Deep Reinforcement Learning](https://arxiv.org/abs/1912.06680)
+	- [[Dota 2 with Large Scale Deep Reinforcement Learning]]
 	  :LOGBOOK:
 	  CLOCK: [2024-12-19 Thu 17:38:55]--[2024-12-19 Thu 17:38:55] =>  00:00:00
 	  :END:
+		- Categorical data processing немного не понятен {{embed ((6765586a-d7e4-463e-9221-49829ce007f8))}}
 	- TODO [AI Summit Building ML Bots at Ubisoft La Forge From Research to Production](https://disk.yandex.ru/d/cz6waY7qvJ3LHQ)
 	- [Machine Learning Summit Naruto Mobile Optimization for LargeScale Reinforcement Learning in Fighting Games](https://disk.yandex.ru/d/cz6waY7qvJ3LHQ)
 		- Вместо ID предлагается использовать AABB ключевых объектов
