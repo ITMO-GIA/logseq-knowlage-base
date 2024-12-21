@@ -12,6 +12,7 @@
 	  :END:
 		- Categorical data processing немного не понятен {{embed ((6765586a-d7e4-463e-9221-49829ce007f8))}}
 	- [AI Summit Building ML Bots at Ubisoft La Forge From Research to Production](https://disk.yandex.ru/d/cz6waY7qvJ3LHQ)
+	  collapsed:: true
 		- Rainbowsix Siege
 			- [[Imitation Learning]]
 			- Никаких подробностей о структуре состояния👎
@@ -30,6 +31,11 @@
 	- [Machine Learning Summit Training HumanLike and HighPerformance Basketball AI Bot for Streetball Allstar With Introduction from Summit Advisor Julien Merceron](https://disk.yandex.ru/d/cz6waY7qvJ3LHQ)
 		- [[Behaviour Cloning]]
 		- Просто используют ID
-	- TODO [Learning Agents | Unreal Fest 2024](https://www.youtube.com/watch?v=FYgJsN_fMr8)
-		- TODO [Humanlike Behavior in a Third-Person Shooter with Imitation Learning | Alex Farhang](https://alexfarhang.github.io/humanlikebehavior) [Humanlike_Behavior.pdf](https://alexfarhang.github.io/assets/pdf/Humanlike_Behavior.pdf)
-	- TODO find Minecraft refs
+	- [Learning Agents | Unreal Fest 2024](https://www.youtube.com/watch?v=FYgJsN_fMr8)
+		- [Humanlike Behavior in a Third-Person Shooter with Imitation Learning | Alex Farhang](https://alexfarhang.github.io/humanlikebehavior) [Humanlike_Behavior.pdf](https://alexfarhang.github.io/assets/pdf/Humanlike_Behavior.pdf)
+		- [[Transformer]] [[Imitation Learning]]
+		- В данной работе они рассматривают только shooting поведение, поэтому введения ID не требуется
+	- Minecraft
+		- TODO [[2303.16563] Skill Reinforcement Learning and Planning for Open-World Long-Horizon Tasks](https://arxiv.org/abs/2303.16563)
+		- [[2106.14876] Multi-task curriculum learning in a complex, visual, hard-exploration domain: Minecraft](https://arxiv.org/abs/2106.14876)
+	- [[Atari Games]]
